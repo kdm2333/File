@@ -1,0 +1,5 @@
+[MAIN]
+
+host=xxxxxxxx
+username=xxxxxxxx
+password=xxxxxxx
